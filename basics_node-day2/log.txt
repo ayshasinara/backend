@@ -1,0 +1,4 @@
+GET /details
+GET /favicon.ico
+GET /
+GET /favicon.ico
